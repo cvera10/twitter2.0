@@ -3,44 +3,353 @@
 <br>
 <br>
 <ion-content class="has-header">
-  <div *ngFor="let tweet of tweets">
+  <div >
     <ion-row class="wrapper">
       <ion-col size="3">
-        <ion-avatar>
-          <ion-img src={{profile.urlImage}} style="height:80%;width:80%;"></ion-img>
+        <ion-avatar class="editado">
+          <ion-img  src="https://i.scdn.co/image/ab67616d0000b2733b39bcd8de83c8216a3b8aed"></ion-img>
         </ion-avatar>
       </ion-col>
       <ion-col size="9">
         <ion-row class="tweet-info">
           <ion-col size="12">
-            <span class="name">Generic name</span>
-            <span class="handle">@Generic name</span>
-            <span class="handle">- {{tweet.fecha | date: 'dd/MM/yyyy'}}</span>
+            <span class="name">Rene Puente</span>
+            <span class="handle">@ellocorene23</span>
+            <span class="handle">. 2h</span>
           </ion-col>
         </ion-row>
         <ion-row>
           <ion-col size="12">
-            <div [innerHtml]="tweet.texto"></div>
-            <img class="preview-img" [src]="tweet.attachment" *ngIf="tweet.attachment">
+            <div >Ni 24 horas duro la limpieza multicultural de la plaza de armas y el centro de Santiago., solo fue un tongo mas del gobierno de Boric y del bufón comunista Iraci Hassler.
+              ¿Cual seria la solución?</div>
+            <img class="preview-img" >
           </ion-col>
         </ion-row>
         <ion-row class="ion-justify-content-start">
           <ion-col>
             <ion-button fill="clear" color="medium" size="small">
               <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
-              {{ tweet.respuestas }}
+              13
             </ion-button>
           </ion-col>
           <ion-col>
-            <ion-button (click)="tweet.retweet = !tweet.retweet" fill="clear" [color]="tweet.retweet ? 'primary' : 'medium'" size="small">
+            <ion-button fill="clear"  size="small">
               <ion-icon name="repeat-outline" slot="start"></ion-icon>
-              {{ tweet.retweets }}
+              35
             </ion-button>
           </ion-col>
           <ion-col>
-            <ion-button (click)="tweet.liked = !tweet.liked" fill="clear" [color]="tweet.liked ? 'primary' : 'medium'" size="small">
+            <ion-button fill="clear"  size="small">
               <ion-icon name="heart-outline" slot="start"></ion-icon>
-              {{ tweet.likes }}
+              9
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <!-- -->
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://images2-mega.cdn.mdstrm.com/mega/2022/09/23/136297_1_632e6f1a1f74c.jpg?d=900x500" ></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Esteban Riquelme</span>
+            <span class="handle">@elnackson</span>
+            <span class="handle">. 2h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >Plaza de armas convertido en un basural y un nido de delincuentes, pero los 🌳 están felices porque los inmigrantes vienen a cambiar la raza y enriquecen nuestra cultura.
+              La cultura👇</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              12
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              54
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              9
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <!--Arturo Vidal-->
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://strikers.futbol/__export/1652373251290/sites/strikers/img/2022/04/23/arturovidal-chile6-295830.jpg_157282023.jpg"></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Arturo Vidal</span>
+            <span class="handle">@kingarturo23</span>
+            <span class="handle">. 3h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >Primero que todo, les quiero agradecer por este tiempo que pudimos compartir 
+              @diegoribas10
+               ❤️
+              @diegoalves
+               ❤️ han sido dos personas muy importante en mi adaptación al club, a la ciudad y al equipo, les quiero desear lo mejor en
+                todo lo que venga para ustedes, como en toda!!! 🙏🏽</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              167
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              94
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              145
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://akamai.sscdn.co/uploadfile/letras/fotos/9/a/5/b/9a5bf3be8b87bcb22e4570e2d1062ac2.jpg"></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Pilar Luksic Craig</span>
+            <span class="handle">@lafixapilar</span>
+            <span class="handle">. 6h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >Pienso luego existo</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              999
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              999
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              999
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://imagenes.elpais.com/resizer/Ui-qOctWG5ZBPafC0xD82N_hk0E=/1960x1103/cloudfront-eu-central-1.images.arcpublishing.com/prisa/SUO6RN2GYFFSPNBQ4D4KZHTE3M.jpg"></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Sebastian Piñera</span>
+            <span class="handle">@sebastianpinera</span>
+            <span class="handle">. 5h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >Patricio Aylwin fue un hombre grande y bueno, que hizo enormes aportes a la recuperación de la democracia y unidad de Chile. 
+
+              Hoy, cuando nuestra democracia y unidad enfrentan grandes desafíos, es bueno recordar su ejemplo y enseñanza.
+              
+              Siempre agradeceré su amistad y consejos.</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              26
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              78
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              1
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://images.ecestaticos.com/lEw3_iZcyR2klkFn6xXIFCWQEbU=/151x0:2166x1511/1200x899/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F68e%2Fb66%2Ffed%2F68eb66fed8a683c25ad60b84e151cdcd.jpg"></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Camila Bustamante</span>
+            <span class="handle">@camilabustamantepinto</span>
+            <span class="handle">. 5h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >Díganle a este madre que trabaja con su hijo con parálisis en la calle para sobrevivir, dónde le deposito 2 millones para ayudar un poco a su situación. 
+              Rezo a diario por un mundo sin sufrimiento.
+              Leonardo Farkas #CHILE</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              13
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              35
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              9
+            </ion-button>
+          </ion-col>
+          <!-- <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="share-outline" slot="start"></ion-icon>
+            </ion-button>
+          </ion-col> -->
+        </ion-row>
+      </ion-col>
+    </ion-row>
+  </div>
+  <div >
+    <ion-row class="wrapper">
+      <ion-col size="3">
+        <ion-avatar class="editado">
+          <ion-img  src="https://images.ecestaticos.com/FRtMA0XyyrBCbvuGPu5AFbvlgzg=/124x0:2145x1514/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0f0%2F225%2F8b7%2F0f02258b7649672a4d540b071f56f921.jpg"></ion-img>
+        </ion-avatar>
+      </ion-col>
+      <ion-col size="9">
+        <ion-row class="tweet-info">
+          <ion-col size="12">
+            <span class="name">Robert Downey Jr</span>
+            <span class="handle">@RobertDowneyJr</span>
+            <span class="handle">. 6h</span>
+          </ion-col>
+        </ion-row>
+        <ion-row>
+          <ion-col size="12">
+            <div >He was a groundbreaking filmmaker. As well as my dad. It’s not uncomplicated… ”Sr.” is a documentary that tells the story of Robert Downey’s maverick rise in NYC, his crash, burn and redemption in Hollywood and our relationship in the aftermath. Only on Netflix, December 2nd.</div>
+            <img class="preview-img" >
+          </ion-col>
+        </ion-row>
+        <ion-row class="ion-justify-content-start">
+          <ion-col>
+            <ion-button fill="clear" color="medium" size="small">
+              <ion-icon name="chatbubble-outline" slot="start"></ion-icon>
+              67
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="repeat-outline" slot="start"></ion-icon>
+              3
+            </ion-button>
+          </ion-col>
+          <ion-col>
+            <ion-button fill="clear"  size="small">
+              <ion-icon name="heart-outline" slot="start"></ion-icon>
+              784
             </ion-button>
           </ion-col>
           <!-- <ion-col>

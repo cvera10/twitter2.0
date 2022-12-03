@@ -10237,34 +10237,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jorge.munoz.m.MUNIMACUL\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Celeste\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge.munoz.m.MUNIMACUL\\Documents\\Github\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
       "projectName": "TwitterAPI",
-      "projectPath": "C:\\Users\\jorge.munoz.m.MUNIMACUL\\Documents\\Github\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
-      "packagesPath": "C:\\Users\\jorge.munoz.m.MUNIMACUL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge.munoz.m.MUNIMACUL\\Documents\\Github\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\obj\\",
+      "projectPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
+      "packagesPath": "C:\\Users\\Celeste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI_Db\\TwitterAPI\\TwitterAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jorge.munoz.m.MUNIMACUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Celeste\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10328,8 +10318,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -10341,7 +10330,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Celeste\\AppData\\Roaming\\.dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

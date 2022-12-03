@@ -12,21 +12,10 @@
           "Microsoft.Extensions.Logging": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props": {}
@@ -35,21 +24,10 @@
       "Microsoft.EntityFrameworkCore.Abstractions/7.0.0-rc.2.22472.11": {
         "type": "package",
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/7.0.0-rc.2.22472.11": {
@@ -78,21 +56,10 @@
           "Microsoft.Extensions.Primitives": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Caching.Abstractions.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -108,21 +75,10 @@
           "Microsoft.Extensions.Primitives": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Caching.Memory.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Caching.Memory.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Caching.Memory.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Caching.Memory.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -134,21 +90,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -157,21 +102,10 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0-rc.2.22472.3": {
         "type": "package",
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -186,21 +120,10 @@
           "Microsoft.Extensions.Options": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Logging.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Logging.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Logging.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Logging.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -209,21 +132,10 @@
       "Microsoft.Extensions.Logging.Abstractions/7.0.0-rc.2.22472.3": {
         "type": "package",
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
@@ -236,21 +148,10 @@
           "Microsoft.Extensions.Primitives": "7.0.0-rc.2.22472.3"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Options.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Options.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Options.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Options.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -262,21 +163,10 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         },
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Primitives.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
@@ -345,21 +235,10 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
         "type": "package",
         "compile": {
-<<<<<<< HEAD
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "related": ".xml"
-          }
-=======
           "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
         },
         "runtime": {
           "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {}
->>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -836,19 +715,19 @@
     ]
   },
   "packageFolders": {
-    "/home/anticucho/.nuget/packages/": {}
+    "C:\\Users\\Celeste\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
       "projectName": "TwitterAPI",
-      "projectPath": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj",
-      "packagesPath": "/home/anticucho/.nuget/packages/",
-      "outputPath": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/obj/",
+      "projectPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
+      "packagesPath": "C:\\Users\\Celeste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/anticucho/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Celeste\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -887,8 +766,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -900,8 +778,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Celeste\\AppData\\Roaming\\.dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj": {}
+    "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj": {}
   },
   "projects": {
-    "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj": {
+    "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
         "projectName": "TwitterAPI",
-        "projectPath": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/TwitterAPI.csproj",
-        "packagesPath": "/home/anticucho/.nuget/packages/",
-        "outputPath": "/home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/obj/",
+        "projectPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\TwitterAPI.csproj",
+        "packagesPath": "C:\\Users\\Celeste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Celeste\\PROYECTO IONIC TWITTER\\20220-semestral-bandcamp-app\\TwitterAPI\\TwitterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anticucho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Celeste\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,8 +53,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Celeste\\AppData\\Roaming\\.dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

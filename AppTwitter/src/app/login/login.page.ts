@@ -20,7 +20,7 @@ export class LoginPage implements OnInit {
   }
 
   ngOnInit() {
-  }
+              }
 
     login() {
     console.log(this.formularioLogin.value);
@@ -31,6 +31,13 @@ export class LoginPage implements OnInit {
       this.profile = data;}
       }
     );
-
   }
-}
+  
+  login2() {
+    if(this.formularioLogin.value.usuario="cvera" && this.formularioLogin.value.password =="cvera"){
+      window.location.href = '/tabs/tab1';
+    }else{
+      console.log("error");
+    }
+    }
+  }

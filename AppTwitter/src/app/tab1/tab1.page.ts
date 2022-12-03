@@ -1,4 +1,4 @@
-import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 import { Observable } from 'rxjs';
 import { MiapiService } from '../api/miapi.service';
 
@@ -13,7 +13,6 @@ export class Tab1Page implements OnInit {
 
   constructor(private api: MiapiService) {}
   ngOnInit() {
-    this.api.GetTweets(4).subscribe((data) => (this.tweets = data));
-    this.api.GetProfile().subscribe((data) => (this.profile = data));
+
   }
 }

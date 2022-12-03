@@ -102,3 +102,40 @@ C:/Users/Alumno/Documents/Github/20220-semestral-bandcamp-app/TwitterAPI/Twitter
 /home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
 /home/anticucho/Documentos/Github/20220-semestral-bandcamp-app/TwitterAPI/TwitterAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
 >>>>>>> bf3df8d3c38c088ad220a299c639774fa6de9369
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\TwitterAPI.exe
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\TwitterAPI.deps.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\TwitterAPI.runtimeconfig.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\TwitterAPI.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\ref\TwitterAPI.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\TwitterAPI.pdb
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.csproj.AssemblyReference.cache
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.AssemblyInfoInputs.cache
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.AssemblyInfo.cs
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\scopedcss\bundle\TwitterAPI.styles.css
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.csproj.CopyComplete
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\ref\TwitterAPI.dll
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.pdb
+C:\Users\Celeste\PROYECTO IONIC TWITTER\20220-semestral-bandcamp-app\TwitterAPI\TwitterAPI\obj\Debug\net6.0\TwitterAPI.genruntimeconfig.cache
